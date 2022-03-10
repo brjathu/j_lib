@@ -13,5 +13,6 @@ setup(
     packages=find_packages(),
     install_requires=[
                         'returns-decorator',
+                        'pytorch>=1.10'
                     ],
 )
